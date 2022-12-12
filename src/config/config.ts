@@ -10,4 +10,4 @@ export const dbConfig: PoolConfig = {
   password: 'IWRnR4FnaiHChsp34mlk',
 };
 
-export const port = 5446;
+export const port = 7080;
